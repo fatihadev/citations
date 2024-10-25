@@ -1,0 +1,21 @@
+html{
+    background: lavender;
+}
+
+body{
+    margin-top: 36%;
+}
+
+p
+{font-family: cursive;
+    font-size: 17px;
+color: blue;}
+
+button{
+    background: linear-gradient(to bottom right, #d478e1, pink);
+    padding: 15px;
+    border-radius: 40px;
+    color: white;
+    font-family: monospace;
+
+}
